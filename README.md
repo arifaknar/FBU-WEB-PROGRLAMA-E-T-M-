@@ -1,2 +1,2 @@
-# FBU-WEB-PROGRLAMA-E-T-M-
+# FBU-WEB-PROGRLAMA-EGITIMI
 C Sharp ve Sql Server ile ilgili yaptığım uygulamalar
