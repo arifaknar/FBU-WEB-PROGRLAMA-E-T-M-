@@ -1,0 +1,15 @@
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.exe
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.deps.json
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.runtimeconfig.dev.json
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.dll
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\bin\Release\netcoreapp3.1\Ders1.pdb
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.Form1.resources
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.dll
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.pdb
+C:\Users\arif.aknar\source\repos\CSHARP_DERS_18_OCAK_2022\Ders1\obj\Release\netcoreapp3.1\Ders1.genruntimeconfig.cache

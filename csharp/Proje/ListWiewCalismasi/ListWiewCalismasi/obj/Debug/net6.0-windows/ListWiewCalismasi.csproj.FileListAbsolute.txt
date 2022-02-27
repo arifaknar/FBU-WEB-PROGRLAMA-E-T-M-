@@ -1,0 +1,16 @@
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.Form1.resources
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ListWiewCalismasi.exe
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ListWiewCalismasi.deps.json
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ListWiewCalismasi.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ListWiewCalismasi.dll
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ref\ListWiewCalismasi.dll
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\bin\Debug\net6.0-windows\ListWiewCalismasi.pdb
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.dll
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ref\ListWiewCalismasi.dll
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.pdb
+C:\Users\arif.aknar\source\repos\ListWiewCalismasi\ListWiewCalismasi\obj\Debug\net6.0-windows\ListWiewCalismasi.genruntimeconfig.cache

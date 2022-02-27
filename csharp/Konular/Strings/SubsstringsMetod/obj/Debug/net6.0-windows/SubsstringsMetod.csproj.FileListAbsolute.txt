@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\SubsstringsMetod.exe
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\SubsstringsMetod.deps.json
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\SubsstringsMetod.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\SubsstringsMetod.dll
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\ref\SubsstringsMetod.dll
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\bin\Debug\net6.0-windows\SubsstringsMetod.pdb
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.dll
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\ref\SubsstringsMetod.dll
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.pdb
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.genruntimeconfig.cache
+C:\Users\arif.aknar\source\repos\Strings\SubsstringsMetod\obj\Debug\net6.0-windows\SubsstringsMetod.csproj.AssemblyReference.cache

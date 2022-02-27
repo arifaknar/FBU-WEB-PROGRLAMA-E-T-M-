@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOb7bfLSRMwnEi4EI7DnJ8glAo/uvAOzV8n9NJbkF5HZLpYTqLCSLLwHCnNY0uC43CofRrN2bnnORn2QAoEn9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arif.aknar\\source\\repos\\Strings\\ArraySegments\\ArraySegments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arif.aknar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\arif.aknar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

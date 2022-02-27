@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\StringMethods.exe
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\StringMethods.deps.json
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\StringMethods.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\StringMethods.dll
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\ref\StringMethods.dll
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\bin\Debug\net6.0-windows\StringMethods.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.dll
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\ref\StringMethods.dll
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringMethods\obj\Debug\net6.0-windows\StringMethods.genruntimeconfig.cache

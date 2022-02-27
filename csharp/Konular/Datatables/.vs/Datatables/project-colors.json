@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "770b8ad0-10af-464f-918d-cda6a7790e89": {
+      "ProjectGuid": "770b8ad0-10af-464f-918d-cda6a7790e89",
+      "DisplayName": "Datatables",
+      "ColorIndex": 0
+    },
+    "5589f0de-11c1-4cdc-be78-8fc293e473e2": {
+      "ProjectGuid": "5589f0de-11c1-4cdc-be78-8fc293e473e2",
+      "DisplayName": "CariUygulama",
+      "ColorIndex": 1
+    },
+    "4c3c858d-12cd-42de-a716-f01d60247837": {
+      "ProjectGuid": "4c3c858d-12cd-42de-a716-f01d60247837",
+      "DisplayName": "ProductMvc",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

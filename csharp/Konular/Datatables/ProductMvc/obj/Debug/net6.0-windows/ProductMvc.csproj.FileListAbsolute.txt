@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ProductMvc.exe
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ProductMvc.deps.json
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ProductMvc.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ProductMvc.dll
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ref\ProductMvc.dll
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\bin\Debug\net6.0-windows\ProductMvc.pdb
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.Form1.resources
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.dll
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ref\ProductMvc.dll
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.pdb
+C:\Users\arif.aknar\source\repos\Datatables\ProductMvc\obj\Debug\net6.0-windows\ProductMvc.genruntimeconfig.cache

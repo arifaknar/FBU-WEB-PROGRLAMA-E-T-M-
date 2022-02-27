@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8222cb40-90d2-42eb-a93b-7570fc8345c4": {
+      "ProjectGuid": "8222cb40-90d2-42eb-a93b-7570fc8345c4",
+      "DisplayName": "Donguler1",
+      "ColorIndex": 0
+    },
+    "be02d67d-ed72-422b-ba58-5743e2a6ed74": {
+      "ProjectGuid": "be02d67d-ed72-422b-ba58-5743e2a6ed74",
+      "DisplayName": "WhileDongusu",
+      "ColorIndex": 1
+    },
+    "6630e0c5-0860-45f3-bc08-dbfc7d4a893f": {
+      "ProjectGuid": "6630e0c5-0860-45f3-bc08-dbfc7d4a893f",
+      "DisplayName": "ForeachExamples",
+      "ColorIndex": 2
+    },
+    "edd312f7-2e17-4a21-8e28-8b34ed9d8fcb": {
+      "ProjectGuid": "edd312f7-2e17-4a21-8e28-8b34ed9d8fcb",
+      "DisplayName": "Diziler",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

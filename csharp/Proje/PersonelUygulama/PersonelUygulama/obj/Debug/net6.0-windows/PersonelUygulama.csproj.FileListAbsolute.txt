@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\PersonelUygulama.exe
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\PersonelUygulama.deps.json
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\PersonelUygulama.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\PersonelUygulama.dll
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\ref\PersonelUygulama.dll
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\bin\Debug\net6.0-windows\PersonelUygulama.pdb
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.Form1.resources
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.dll
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\ref\PersonelUygulama.dll
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.pdb
+C:\Users\arif.aknar\source\repos\PersonelUygulama\PersonelUygulama\obj\Debug\net6.0-windows\PersonelUygulama.genruntimeconfig.cache

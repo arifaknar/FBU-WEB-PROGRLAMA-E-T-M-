@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\Regularexpression.exe
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\Regularexpression.deps.json
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\Regularexpression.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\Regularexpression.dll
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\ref\Regularexpression.dll
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\bin\Debug\net6.0-windows\Regularexpression.pdb
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.dll
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\ref\Regularexpression.dll
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.pdb
+C:\Users\arif.aknar\source\repos\Strings\Regularexpression\obj\Debug\net6.0-windows\Regularexpression.genruntimeconfig.cache

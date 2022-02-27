@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c734da75-6a6a-4c83-b1a5-48a65864d3cc": {
+      "ProjectGuid": "c734da75-6a6a-4c83-b1a5-48a65864d3cc",
+      "DisplayName": "StringFormatlama",
+      "ColorIndex": 0
+    },
+    "c8acb25b-0b0f-4b0b-b84f-6503b971be53": {
+      "ProjectGuid": "c8acb25b-0b0f-4b0b-b84f-6503b971be53",
+      "DisplayName": "StringMethods",
+      "ColorIndex": 1
+    },
+    "1368b277-4827-4271-94f7-1b265e01c886": {
+      "ProjectGuid": "1368b277-4827-4271-94f7-1b265e01c886",
+      "DisplayName": "ContainsÖrnek",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

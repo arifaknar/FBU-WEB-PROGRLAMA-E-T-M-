@@ -1,0 +1,7 @@
+create database MuhasabeDb
+
+ALTER TABLE MUHASEBE_FIS_TBL
+add constraint UQ_FIS_NO UNIQUE(FIS_NO)
+
+ALTER TABLE PERSONEL_TBL
+add constraint UQ_TC_NO UNIQUE(TC)

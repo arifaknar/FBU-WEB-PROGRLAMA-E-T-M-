@@ -1,0 +1,9 @@
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\bin\Debug\Degiskenler2.exe.config
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\bin\Debug\Degiskenler2.exe
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\bin\Debug\Degiskenler2.pdb
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.Form1.resources
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.Properties.Resources.resources
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.exe
+C:\Users\arif.aknar\source\repos\Degiskenler\Degiskenler2\obj\Debug\Degiskenler2.pdb

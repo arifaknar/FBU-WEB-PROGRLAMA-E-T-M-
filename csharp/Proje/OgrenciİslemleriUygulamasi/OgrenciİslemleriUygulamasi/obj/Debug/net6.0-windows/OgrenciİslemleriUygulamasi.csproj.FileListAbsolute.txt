@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.exe
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.deps.json
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.dll
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\ref\OgrenciİslemleriUygulamasi.dll
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\bin\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.pdb
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.Form1.resources
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.dll
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\ref\OgrenciİslemleriUygulamasi.dll
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.pdb
+C:\Users\arif.aknar\source\repos\OgrenciİslemleriUygulamasi\OgrenciİslemleriUygulamasi\obj\Debug\net6.0-windows\OgrenciİslemleriUygulamasi.genruntimeconfig.cache

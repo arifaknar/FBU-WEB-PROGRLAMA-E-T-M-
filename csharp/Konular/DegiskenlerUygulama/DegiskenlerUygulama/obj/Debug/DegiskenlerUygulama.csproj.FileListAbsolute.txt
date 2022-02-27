@@ -1,0 +1,10 @@
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\bin\Debug\DegiskenlerUygulama.exe.config
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\bin\Debug\DegiskenlerUygulama.exe
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\bin\Debug\DegiskenlerUygulama.pdb
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.Form1.resources
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.Properties.Resources.resources
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.exe
+C:\Users\arif.aknar\source\repos\DegiskenlerUygulama\DegiskenlerUygulama\obj\Debug\DegiskenlerUygulama.pdb

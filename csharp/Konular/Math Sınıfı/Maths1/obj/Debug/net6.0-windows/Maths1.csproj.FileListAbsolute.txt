@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\Maths1.exe
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\Maths1.deps.json
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\Maths1.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\Maths1.dll
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\ref\Maths1.dll
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\bin\Debug\net6.0-windows\Maths1.pdb
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.Form1.resources
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.dll
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\ref\Maths1.dll
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.pdb
+C:\Users\arif.aknar\source\repos\Math Sınıfı\Maths1\obj\Debug\net6.0-windows\Maths1.genruntimeconfig.cache

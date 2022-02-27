@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\Koleksiyonlar1.exe
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\Koleksiyonlar1.deps.json
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\Koleksiyonlar1.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\Koleksiyonlar1.dll
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\ref\Koleksiyonlar1.dll
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\bin\Debug\net6.0-windows\Koleksiyonlar1.pdb
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.Form1.resources
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.dll
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\ref\Koleksiyonlar1.dll
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.pdb
+C:\Users\arif.aknar\source\repos\Koleksiyonlar\Koleksiyonlar1\obj\Debug\net6.0-windows\Koleksiyonlar1.genruntimeconfig.cache

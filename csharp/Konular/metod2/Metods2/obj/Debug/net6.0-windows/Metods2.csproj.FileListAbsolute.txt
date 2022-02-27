@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\Metods2.exe
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\Metods2.deps.json
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\Metods2.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\Metods2.dll
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\ref\Metods2.dll
+C:\Users\arif.aknar\source\repos\Metods\Metods2\bin\Debug\net6.0-windows\Metods2.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.Form1.resources
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.dll
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\ref\Metods2.dll
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metods2\obj\Debug\net6.0-windows\Metods2.genruntimeconfig.cache

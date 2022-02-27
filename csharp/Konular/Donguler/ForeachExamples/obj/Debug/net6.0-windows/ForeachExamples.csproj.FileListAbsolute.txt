@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ForeachExamples.exe
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ForeachExamples.deps.json
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ForeachExamples.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ForeachExamples.dll
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ref\ForeachExamples.dll
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\bin\Debug\net6.0-windows\ForeachExamples.pdb
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.Form1.resources
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.dll
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ref\ForeachExamples.dll
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.pdb
+C:\Users\arif.aknar\source\repos\Donguler\ForeachExamples\obj\Debug\net6.0-windows\ForeachExamples.genruntimeconfig.cache

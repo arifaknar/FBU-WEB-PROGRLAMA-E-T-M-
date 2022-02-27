@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ContainsÖrnek.exe
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ContainsÖrnek.deps.json
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ContainsÖrnek.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ContainsÖrnek.dll
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ref\ContainsÖrnek.dll
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\bin\Debug\net6.0-windows\ContainsÖrnek.pdb
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.dll
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ref\ContainsÖrnek.dll
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.pdb
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.genruntimeconfig.cache
+C:\Users\arif.aknar\source\repos\Strings\ContainsÖrnek\obj\Debug\net6.0-windows\ContainsÖrnek.csproj.AssemblyReference.cache

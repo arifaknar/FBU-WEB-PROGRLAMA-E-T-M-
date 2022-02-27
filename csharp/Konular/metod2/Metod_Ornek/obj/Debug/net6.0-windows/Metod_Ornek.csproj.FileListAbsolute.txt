@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\Metod_Ornek.exe
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\Metod_Ornek.deps.json
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\Metod_Ornek.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\Metod_Ornek.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\ref\Metod_Ornek.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\bin\Debug\net6.0-windows\Metod_Ornek.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.Form1.resources
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\ref\Metod_Ornek.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metod_Ornek\obj\Debug\net6.0-windows\Metod_Ornek.genruntimeconfig.cache

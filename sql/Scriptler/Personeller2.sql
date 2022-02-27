@@ -1,0 +1,1 @@
+select Ad,Maas,DepartmanAdi from Personeller left join Departmanlar on Personeller.DepartmanId=Departmanlar.DepartmanId                    

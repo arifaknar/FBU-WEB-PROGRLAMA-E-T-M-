@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormatlama", "StringFormatlama\StringFormatlama.csproj", "{C734DA75-6A6A-4C83-B1A5-48A65864D3CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethods", "StringMethods\StringMethods.csproj", "{C8ACB25B-0B0F-4B0B-B84F-6503B971BE53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsÖrnek", "ContainsÖrnek\ContainsÖrnek.csproj", "{1368B277-4827-4271-94F7-1B265E01C886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsstringsMetod", "SubsstringsMetod\SubsstringsMetod.csproj", "{6FB68658-1C57-47C5-A702-1BA71CD23F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySegments", "ArraySegments\ArraySegments.csproj", "{CE6F6D2C-AD46-4ADE-B788-C68C7C5F732D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilders", "StringBuilders\StringBuilders.csproj", "{65DD53CB-878F-4F84-BB0A-622F1A026E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regularexpression", "Regularexpression\Regularexpression.csproj", "{4D3E7D5E-1FAD-4EF9-BA19-204B3AA6A664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C734DA75-6A6A-4C83-B1A5-48A65864D3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C734DA75-6A6A-4C83-B1A5-48A65864D3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C734DA75-6A6A-4C83-B1A5-48A65864D3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C734DA75-6A6A-4C83-B1A5-48A65864D3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ACB25B-0B0F-4B0B-B84F-6503B971BE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ACB25B-0B0F-4B0B-B84F-6503B971BE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ACB25B-0B0F-4B0B-B84F-6503B971BE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ACB25B-0B0F-4B0B-B84F-6503B971BE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1368B277-4827-4271-94F7-1B265E01C886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1368B277-4827-4271-94F7-1B265E01C886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1368B277-4827-4271-94F7-1B265E01C886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1368B277-4827-4271-94F7-1B265E01C886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB68658-1C57-47C5-A702-1BA71CD23F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB68658-1C57-47C5-A702-1BA71CD23F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB68658-1C57-47C5-A702-1BA71CD23F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB68658-1C57-47C5-A702-1BA71CD23F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6F6D2C-AD46-4ADE-B788-C68C7C5F732D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6F6D2C-AD46-4ADE-B788-C68C7C5F732D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6F6D2C-AD46-4ADE-B788-C68C7C5F732D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6F6D2C-AD46-4ADE-B788-C68C7C5F732D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DD53CB-878F-4F84-BB0A-622F1A026E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DD53CB-878F-4F84-BB0A-622F1A026E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DD53CB-878F-4F84-BB0A-622F1A026E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DD53CB-878F-4F84-BB0A-622F1A026E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3E7D5E-1FAD-4EF9-BA19-204B3AA6A664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3E7D5E-1FAD-4EF9-BA19-204B3AA6A664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3E7D5E-1FAD-4EF9-BA19-204B3AA6A664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3E7D5E-1FAD-4EF9-BA19-204B3AA6A664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69FA910-4547-4665-A01E-C57A48C549E4}
+	EndGlobalSection
+EndGlobal

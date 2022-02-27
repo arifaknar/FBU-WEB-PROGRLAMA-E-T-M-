@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\StringFormatlama.exe
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\StringFormatlama.deps.json
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\StringFormatlama.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\StringFormatlama.dll
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\ref\StringFormatlama.dll
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\bin\Debug\net6.0-windows\StringFormatlama.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.dll
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\ref\StringFormatlama.dll
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringFormatlama\obj\Debug\net6.0-windows\StringFormatlama.genruntimeconfig.cache

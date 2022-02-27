@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\Metod4.exe
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\Metod4.deps.json
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\Metod4.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\Metod4.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\ref\Metod4.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod4\bin\Debug\net6.0-windows\Metod4.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.Form1.resources
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\ref\Metod4.dll
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.pdb
+C:\Users\arif.aknar\source\repos\Metods\Metod4\obj\Debug\net6.0-windows\Metod4.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cee252b-db7a-45c8-8889-d46a2668b273": {
+      "ProjectGuid": "7cee252b-db7a-45c8-8889-d46a2668b273",
+      "DisplayName": "Maths1",
+      "ColorIndex": 0
+    },
+    "f36ec1b6-ea3e-478f-b581-eb671b1ed4b0": {
+      "ProjectGuid": "f36ec1b6-ea3e-478f-b581-eb671b1ed4b0",
+      "DisplayName": "Uygulama2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec9aad53-9591-42a9-bd2e-f4890b9da0be": {
+      "ProjectGuid": "ec9aad53-9591-42a9-bd2e-f4890b9da0be",
+      "DisplayName": "10022022",
+      "ColorIndex": 0
+    },
+    "9dd82c59-3c77-4e7c-bb57-d76854c3fda4": {
+      "ProjectGuid": "9dd82c59-3c77-4e7c-bb57-d76854c3fda4",
+      "DisplayName": "10022022Uygulama",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

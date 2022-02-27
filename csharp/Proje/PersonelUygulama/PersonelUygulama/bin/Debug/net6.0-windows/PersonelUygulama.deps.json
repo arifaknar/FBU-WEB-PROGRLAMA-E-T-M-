@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PersonelUygulama/1.0.0": {
+        "runtime": {
+          "PersonelUygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonelUygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

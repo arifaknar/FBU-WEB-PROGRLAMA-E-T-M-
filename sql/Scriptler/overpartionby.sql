@@ -1,0 +1,4 @@
+-- OVER PARTÝON BY
+SELECT * INTO #EmployeesTest FROM Employees
+SELECT ROW_NUMBER() OVER (PARTITION BY city ORDER BY city ASC) ROW_ID,City
+FROM #EmployeesTest

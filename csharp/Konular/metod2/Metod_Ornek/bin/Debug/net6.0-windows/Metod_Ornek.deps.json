@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Metod_Ornek/1.0.0": {
+        "runtime": {
+          "Metod_Ornek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metod_Ornek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

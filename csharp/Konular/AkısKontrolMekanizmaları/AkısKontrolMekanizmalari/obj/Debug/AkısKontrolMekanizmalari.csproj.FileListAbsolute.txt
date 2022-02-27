@@ -1,0 +1,10 @@
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\bin\Debug\AkısKontrolMekanizmalari.exe.config
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\bin\Debug\AkısKontrolMekanizmalari.exe
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\bin\Debug\AkısKontrolMekanizmalari.pdb
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.Form1.resources
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.Properties.Resources.resources
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.exe
+C:\Users\arif.aknar\source\repos\AkısKontrolMekanizmaları\AkısKontrolMekanizmalari\obj\Debug\AkısKontrolMekanizmalari.pdb

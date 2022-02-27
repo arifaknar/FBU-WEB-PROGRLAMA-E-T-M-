@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\StringBuilders.exe
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\StringBuilders.deps.json
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\StringBuilders.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\StringBuilders.dll
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\ref\StringBuilders.dll
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\bin\Debug\net6.0-windows\StringBuilders.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.Form1.resources
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.dll
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\ref\StringBuilders.dll
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.pdb
+C:\Users\arif.aknar\source\repos\Strings\StringBuilders\obj\Debug\net6.0-windows\StringBuilders.genruntimeconfig.cache

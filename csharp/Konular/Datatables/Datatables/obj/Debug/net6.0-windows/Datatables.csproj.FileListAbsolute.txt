@@ -1,0 +1,17 @@
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\Datatables.exe
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\Datatables.deps.json
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\Datatables.runtimeconfig.json
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\Datatables.dll
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\ref\Datatables.dll
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\bin\Debug\net6.0-windows\Datatables.pdb
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.csproj.AssemblyReference.cache
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.Form1.resources
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.csproj.GenerateResource.cache
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.AssemblyInfoInputs.cache
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.AssemblyInfo.cs
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.csproj.CoreCompileInputs.cache
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.dll
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\ref\Datatables.dll
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.pdb
+C:\Users\arif.aknar\source\repos\Datatables\Datatables\obj\Debug\net6.0-windows\Datatables.genruntimeconfig.cache
