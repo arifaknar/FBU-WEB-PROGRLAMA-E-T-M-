@@ -1,2 +1,6 @@
-# FBU-WEB-PROGRLAMA-E-T-M-
-C Sharp ve Sql Server ile ilgili yaptığım uygulamalar
+
+# Alışveriş Form Uygulaması
+
+Ürün Ekleme,Silme, yeni faturaya geçiş işlemleri. 
+Alışveriş Tutarlarını hesaplama ve hedef ciro denetimi.
+
